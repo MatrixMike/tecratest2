@@ -1,0 +1,2 @@
+rootProject.name='tecratest2'
+include ':app'
